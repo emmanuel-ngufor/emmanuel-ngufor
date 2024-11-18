@@ -1,4 +1,4 @@
-# Hello, World! I'm Mukul Sharma 👋
+# Hello, World! I'm Emmanuel Ngufor 👋
 
 ## 👨‍💻 About Me
 
@@ -10,12 +10,12 @@ I'm a Web Developer and Software Engineer with a passion for creating innovative
 
 ## 🚀 Portfolio Highlights
 
-- **Library Management System (C++):** System design, data management.
-- **Line Craft 360 (C++):** Complex simulation, object-oriented programming.
-- **Database Enhancement (PL/SQL):** Database programming, error handling.
 - **Lego Collection Web App:** Full-stack development, database integration.
-- **ChatGPT 2.0 App:** React, Express, OpenAI API integration.
-- **Web Scraping/Automation (Python, Selenium):** Web scraping, automation.
+- **DSA(Python):** Learning Data Structures and Algorithms.
+- **Disaster Relief Iventory Management System (C++):** System design, data management.
+- **Porfolio App:** React, Express, OpenAI API integration.
+- **Assembly Line Simulation System:** Simulation of an Asembly line with any number of stations. C++
+- **Vetinary Clinic Appointment System (C):** Database programming, error handling.
 
 ## 🤝 Collaboration and Contributions
 
@@ -23,8 +23,8 @@ Open to collaboration and contributions. Let's innovate together!
 
 ## 📫 How to Reach Me
 
-- [LinkedIn](https://www.linkedin.com/in/mukuliskul)
-- [Email : mukulsharma29jan@gmail.com](mailto:mukulsharma29jan@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/emmanuel-ngufor/)
+- [Email : nguforemmanuel53@gmail.com](mailto:nguforemmanuel53@gmail.com)
 
 ## 📈 My GitHub Stats
 
