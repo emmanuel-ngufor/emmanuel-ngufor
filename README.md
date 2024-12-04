@@ -26,6 +26,8 @@ Open to collaboration and contributions. Let's innovate together!
 
 - [LinkedIn](https://www.linkedin.com/in/emmanuel-ngufor/)
 - [Email : nguforemmanuel53@gmail.com](mailto:nguforemmanuel53@gmail.com)
+- [Website](https://myportfolio-amber-xi.vercel.app/)
+- [X -Twitter](https://x.com/i_amemma5)
 
 ## 📈 My GitHub Stats
 
