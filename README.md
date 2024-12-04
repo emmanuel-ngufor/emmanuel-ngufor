@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Web Developer and Software Engineer with a passion for creating innovative solutions. My expertise spans C++, PL/SQL, Python, React, and web technologies.
+I'm a Software Developer | System Admin & Technical Support and graduate with Honors in Computer Programming and Analysis from Seneca Polytechnic with a strong background in software development, system administration and infrastructure management with a passion for creating innovative solutions. Enthusiastic about software design, soccer and basketball. Seeking to leverage my hands-on experience and knowledge in a dynamic environment. My expertise spans C++, PL/SQL, Python, React, and web technologies.
 
 ## 🚀 Skills and Technologies
 
@@ -11,6 +11,7 @@ I'm a Web Developer and Software Engineer with a passion for creating innovative
 ## 🚀 Portfolio Highlights
 
 - **Lego Collection Web App:** Full-stack development, database integration.
+- **Python Development(Python):** Games, Data Science & more...
 - **DSA(Python):** Learning Data Structures and Algorithms.
 - **Disaster Relief Iventory Management System (C++):** System design, data management.
 - **Porfolio App:** React, Express, OpenAI API integration.
@@ -28,15 +29,15 @@ Open to collaboration and contributions. Let's innovate together!
 
 ## 📈 My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel-ngufor&layout=compact)](https://github.com/mukuliskul)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel-ngufor&layout=compact)](https://github.com/emmanuel-ngufor)
 
-[![Mukul's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanuel-ngufor)](https://github.com/mukuliskul)
+[![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanuel-ngufor)](https://github.com/emmanuel-ngufor)
 
 <!--
 
 ## 🌱 I’m currently learning ...
 [Your current learning goals or technologies you're exploring.]
-**mukuliskul/mukuliskul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**emmanuel-ngufor/emmanuel-ngufor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
